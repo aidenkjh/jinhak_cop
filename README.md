@@ -1,2 +1,1 @@
-"# jinhak_cop" 
-"# jinhak_cop" 
+진학사 COP 임형섭과 아이들입니다.
